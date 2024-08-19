@@ -50,11 +50,15 @@ Media Sharing: (Planned Feature) Users will be able to share images and other me
 
 ### Challenges and Solutions
 CORS Policy Issue: Initially faced challenges with CORS policy, which were resolved by configuring the server to handle cross-origin requests appropriately.
+
 Message Synchronization: Implemented real-time messaging effectively despite initial synchronization challenges.
 
 
 ### Future Improvements
 Implement media sharing capabilities (images, videos, etc.)
+
 Add user authentication and authorization
+
 Optimize performance for scalability
+
 Enhance UI/UX with additional features and improvements
