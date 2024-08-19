@@ -43,16 +43,22 @@ To get a local copy of this project up and running, follow these instructions:
 
 ### Usage
 -Joining the Chat: Upon opening the application, you will be prompted to enter your name to join the chat.
+
 -Sending Messages: Type your message into the input field and press Enter or click the Send button to send a message.
+
 -Media Sharing: (Planned Feature) Users will be able to share images and other media files in future updates.
 
 ### Challenges and Solutions
 -CORS Policy Issue: Initially faced challenges with CORS policy, which were resolved by configuring the server to handle cross-origin requests appropriately.
+
 -Message Synchronization: Implemented real-time messaging effectively despite initial synchronization challenges.
 
 
 ### Future Improvements
 -Implement media sharing capabilities (images, videos, etc.)
+
 -Add user authentication and authorization
+
 -Optimize performance for scalability
+
 -Enhance UI/UX with additional features and improvements
